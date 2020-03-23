@@ -1,0 +1,5 @@
+{
+    "Explain": "这是要mock的数据, key为路由, value为mock后返回的数据",
+    "/login": {"code": 200, "status": "OK", "date": {"name": "zhangsan", "passwd": "123456"}},
+    "/user_add": {"code": 200, "data": {"name": "ok"}}
+}
